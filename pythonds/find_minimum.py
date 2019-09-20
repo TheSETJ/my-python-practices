@@ -1,4 +1,4 @@
-# pythond - Big-O Notation - Self Check (#1)
+# pythonds - Big-O Notation - Self Check (#1)
 # Based https://runestone.academy/runestone/books/published/pythonds/AlgorithmAnalysis/BigONotation.html
 # Write two Python functions to find the minimum number in a list. The first function should compare each number to every other number on the list. O(n2). The second function should be linear O(n).
 
